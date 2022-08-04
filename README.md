@@ -3,7 +3,8 @@
 
 This is my very first personal project which I coded back in 10th standard as my final project submission for ICSE Board exam.
 
-Well it is a CLI based app which can do fun stuff and comprises of various small little programs like patterns, functions, constructors and other things that I practiced while learning how to code. This is where it all started!
+Well it is a CLI based app which can do fun stuff and comprises of various small little programs like patterns, functions, constructors and other things that I practiced while learning how to code. This is where it all started! All the orignal code along with the then designed card are presented to you!
+
 ## Features
 
 This is what you call a really feature rich program! It can not only interpret sentences and phrases but also be actually useful by performing basic tasks.
